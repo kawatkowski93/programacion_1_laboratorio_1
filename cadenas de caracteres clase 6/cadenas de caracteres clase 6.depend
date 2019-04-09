@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554764618 source:c:\users\alumno\desktop\cadenas de caracteres clase 6\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

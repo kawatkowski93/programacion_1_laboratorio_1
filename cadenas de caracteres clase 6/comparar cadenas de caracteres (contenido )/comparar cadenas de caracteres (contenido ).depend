@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554768971 source:c:\users\alumno\desktop\cadenas de caracteres clase 6\comparar cadenas de caracteres (contenido )\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
