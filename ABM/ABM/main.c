@@ -5,7 +5,7 @@
 #define T 10
 
 
-int menuDeOpciones(char[]);
+
 
 
 int main()
@@ -54,11 +54,3 @@ int main()
     return 0;
 }
 
-int menuDeOpciones(char mensaje[])
-{
-    int opcion;
-    printf("%s", mensaje);
-    scanf("%d", &opcion);
-
-    return opcion;
-}

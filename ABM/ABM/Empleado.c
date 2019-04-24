@@ -170,4 +170,14 @@ int buscarLegajo(eEmpleado lista[], int tam, int legajo)
 
 }
 
+int menuDeOpciones(char mensaje[])
+{
+    int opcion;
+    printf("%s", mensaje);
+    scanf("%d", &opcion);
+
+    return opcion;
+}
+
+
 

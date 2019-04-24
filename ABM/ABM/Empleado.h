@@ -31,6 +31,7 @@ void hardcodearDatosEmpleados(eEmpleado[], int);
 void modificar(eEmpleado[], int, int);
 int buscarLegajo(eEmpleado[], int, int);
 void borrarEmpleado(eEmpleado[], int, int);
+int menuDeOpciones(char[]);
 
 
 

@@ -48,5 +48,4 @@ void  ordenar (ePersona per[],int cantidad){
 
 
 }
-
 eNacion nacionalidad[]={1,"argentina",2,"peru",3."uruguay"};

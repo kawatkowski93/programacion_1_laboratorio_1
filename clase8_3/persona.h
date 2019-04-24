@@ -19,3 +19,5 @@ void mostrarUno( ePersona per );
 void mostrarTodos( ePersona pers[], int cantidad);
 
 void  ordenar (ePersona per[],int cantidad);
+
+
